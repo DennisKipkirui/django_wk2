@@ -146,8 +146,6 @@ def add_comment(request,id):
        form = CommentForm()
        return render(request,'new_comment.html',{"form":form,"image":image})    
 
-
-
  
 def comments(request,id):
    comments = Comments.get_comments(id)
