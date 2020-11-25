@@ -30,6 +30,8 @@ class PostForm(forms.ModelForm):
 #     class Meta:
 #         model = Image
 #         exclude = ['image', 'image_caption',' image_name',]
+
+
 class CommentForm(forms.ModelForm):
     class Meta:
         model = Comments
