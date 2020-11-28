@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/moringa/Desktop/Projects/instakramu/environment/bin/python3"
+    "python.pythonPath": "/home/moringa/Desktop/Projects/instakramu/virtual/bin/python3",
+    "git.ignoreLimitWarning": true
 }
