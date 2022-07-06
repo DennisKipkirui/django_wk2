@@ -1,3 +1,4 @@
+![insta](https://user-images.githubusercontent.com/71698621/177590902-1184f1cf-5c0a-4f6d-a523-6c44bbdad29a.png)
 # InstaProject
 An Instagram clone developed using django framework
 
